@@ -1,0 +1,74 @@
+{
+  "metadata": {
+    "date": "2026-05-18T04:14:12",
+    "generator": "KiCad 10.0.1",
+    "project": "Daron_necklace_bottom",
+    "board_name": "Daron_necklace_bottom"
+  },
+  "board": {
+    "has_outline": true,
+    "width": "20.0025 mm",
+    "height": "20.0025 mm",
+    "area": "314.107 mm²",
+    "front_component_density": "24.82",
+    "back_component_density": "45.39",
+    "front_copper_area": "34.923 mm²",
+    "back_copper_area": "52.697 mm²",
+    "min_track_clearance": "2147.4836 mm",
+    "min_track_width": "2147.4836 mm",
+    "min_drill_diameter": "2147.4836 mm",
+    "board_thickness": "1.6000 mm",
+    "front_footprint_area": "77.975 mm²",
+    "back_footprint_area": "142.565 mm²",
+    "front_footprint_density": "24.82",
+    "back_footprint_density": "45.39"
+  },
+  "pads": {
+    "through_hole": 2,
+    "smd": 150,
+    "connector": 0,
+    "npth": 0,
+    "castellated": 0,
+    "press_fit": 0
+  },
+  "vias": {
+    "through": 0,
+    "blind": 0,
+    "buried": 0,
+    "micro": 0
+  },
+  "components": {
+    "tht": {
+      "front": 0,
+      "back": 0,
+      "total": 0
+    },
+    "smd": {
+      "front": 10,
+      "back": 23,
+      "total": 33
+    },
+    "unspecified": {
+      "front": 6,
+      "back": 3,
+      "total": 9
+    },
+    "total": {
+      "front": 16,
+      "back": 26,
+      "total": 42
+    }
+  },
+  "drill_holes": [
+    {
+      "count": 2,
+      "shape": "Slot",
+      "x_size": "0.8400 mm",
+      "y_size": "0.7000 mm",
+      "plated": true,
+      "source": "Pad",
+      "start_layer": "F.Cu",
+      "stop_layer": "B.Cu"
+    }
+  ]
+}

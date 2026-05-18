@@ -1,0 +1,7 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "TPS63070RNMR")(type "KiCad")(uri "${KIPRJMOD}/lib/TPS63070RNMR")(options "")(descr ""))
+  (lib (name "lib")(type "KiCad")(uri "${KIPRJMOD}/lib")(options "")(descr ""))
+  (lib (name "FH35C_11S_0_3SHW_50_")(type "KiCad")(uri "${KIPRJMOD}/lib/fpc/fpc.pretty")(options "")(descr ""))
+  (lib (name "usbc")(type "KiCad")(uri "${KIPRJMOD}/lib/usbc.pretty")(options "")(descr ""))
+)
